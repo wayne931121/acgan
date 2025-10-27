@@ -16,4 +16,5 @@ result:
 
 original code from:
 
-https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/acgan (mit)
+Github, PyTorch-GAN, PyTorch-GAN, MIT License Copyright (c) 2018 Erik Linder-Norén.
+ - https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/acgan
