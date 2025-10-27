@@ -42,6 +42,11 @@ Writing Custom Datasets, DataLoaders and Transforms, PyTorch, 2017/06/10
 https://docs.pytorch.org/tutorials/beginner/data_loading_tutorial.html
 
 
+torch.optim, PyTorch, 2025/07/13
+
+https://docs.pytorch.org/docs/stable/optim.html
+
+
 Embedding Error Index out of Range in self, csblacknet Chirag, 2020/05
 
 https://discuss.pytorch.org/t/embedding-error-index-out-of-range-in-self/81550
