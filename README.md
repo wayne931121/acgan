@@ -17,4 +17,42 @@ result:
 original code from:
 
 Github, PyTorch-GAN, Auxiliary Classifier GAN, MIT License Copyright (c) 2018 Erik Linder-Norén.
- - https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/acgan
+
+https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/acgan
+
+reference
+
+Saving and Loading Models, PyTorch, 2018/08/29
+
+https://docs.pytorch.org/tutorials/beginner/saving_loading_models.html
+
+
+Transfer Learning for Computer Vision Tutorial, PyTorch, 2017/05/24
+
+https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+
+
+ImageFolder, PyTorch, 2017
+
+https://docs.pytorch.org/vision/main/generated/torchvision.datasets.ImageFolder.html
+
+
+Writing Custom Datasets, DataLoaders and Transforms, PyTorch, 2017/06/10
+
+https://docs.pytorch.org/tutorials/beginner/data_loading_tutorial.html
+
+
+Embedding Error Index out of Range in self, csblacknet Chirag, 2020/05
+
+https://discuss.pytorch.org/t/embedding-error-index-out-of-range-in-self/81550
+
+
+RuntimeError: CUDA error: device-side assert triggered, anon58275033, 2021/08
+
+https://discuss.huggingface.co/t/help-runtimeerror-cuda-error-device-side-assert-triggered/9418
+
+
+Runtime Error while Saving a PyTorch Model: "File /path/to/be/saved Cannot Be Opened", Al A, 2022/12/27
+
+https://stackoverflow.com/questions/74925031/runtime-error-while-saving-a-pytorch-model-file-path-to-be-saved-cannot-be-op
+
