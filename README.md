@@ -16,5 +16,5 @@ result:
 
 original code from:
 
-Github, PyTorch-GAN, PyTorch-GAN, MIT License Copyright (c) 2018 Erik Linder-Norén.
+Github, PyTorch-GAN, Auxiliary Classifier GAN, MIT License Copyright (c) 2018 Erik Linder-Norén.
  - https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/acgan
