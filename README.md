@@ -14,6 +14,10 @@ result:
 <img src="https://raw.githubusercontent.com/wayne931121/acgan/refs/heads/main/resultim/Screenshot%20(637).png">
 <img src="https://raw.githubusercontent.com/wayne931121/acgan/refs/heads/main/resultim/Screenshot%20(638).png">
 
+some other tests... like gan and ebgan:
+
+https://github.com/wayne931121/acgan/tree/main/resultim/test
+
 original code from:
 
 Github, PyTorch-GAN, Auxiliary Classifier GAN, MIT License Copyright (c) 2018 Erik Linder-Norén.
